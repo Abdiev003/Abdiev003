@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Ali
 - I'm a backend developer
-- Skils: Python / Django / Flask / RestApi / HTML / CSS / JS / MySQL / PostgreSQL / Redis / Docker 
+- Skils: Python / Django / Flask / RestApi / HTML / CSS / JS / MySQL / PostgreSQL / Redis / Docker / Docker-Compose
 - Check it if you want to contact me. EMail: aliabdiyev000@gmail.com 
 
 
