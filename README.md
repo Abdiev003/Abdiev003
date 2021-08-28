@@ -37,4 +37,4 @@
 </p>
 
 ![Abdiev003's github stats](https://github-readme-stats.vercel.app/api?username=Abdiev003&count_private=true&show_icons=true&theme=gotham)
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Abdiev003&theme=gotham'/>
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=Abdiev003&theme=gotham'/> 
