@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Ali
 - I'm a backend developer
 - Skils: Python / Django / Flask / RestApi / HTML / CSS / JS / MySQL / PostgreSQL / Redis / Docker / Docker-Compose
-- 
+
 ## ✉️ Find me on:
 
 
