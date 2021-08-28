@@ -1,6 +1,5 @@
 - 👋 Hi, My name is Ali
 - I'm a backend developer
-- Skils: Python / Django / Flask / RestApi / HTML / CSS / JS / MySQL / PostgreSQL / Redis / Docker / Docker-Compose
 
 ## ✉️ Find me on:
 
@@ -29,6 +28,9 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Redis" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" height="40" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GITHUB" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
 
