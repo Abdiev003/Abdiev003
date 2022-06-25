@@ -92,16 +92,15 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abdiev003&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdiev003&show_icons=true&count_private=true&hide_border=true" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiev003&hide_border=true&layout=compact" align="left" />  
+  </div>
   
 
 <br/>  
 
-  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=abdiev003&&style=flat-square" align="center" />
