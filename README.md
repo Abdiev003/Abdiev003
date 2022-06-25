@@ -96,13 +96,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abdiev003&show_icons=true&count_private=true&hide_border=true" align="left" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdiev003&hide_border=true&layout=compact" align="right" />  
 </div>
-  
-
-<br/>  
 
  
 
-<div align="center">
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=abdiev003&&style=flat-square" align="center" />
 </div>  
   
