@@ -89,7 +89,12 @@
   
 
 
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdiev003&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
+## 📊 GitHub Stats
+
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdiev003&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdiev003&layout=compact&langs_count=6&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdiev003&theme=radical)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdiev003&theme=algolia&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
