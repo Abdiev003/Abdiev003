@@ -21,9 +21,6 @@
   <a href="https://github.com/Abdiev003" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://your-portfolio-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=domain&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 ---
@@ -105,7 +102,7 @@
 <p align="center">
   Feel free to reach out to start a new project, improve an existing one, or just to chat about tech. <br> Let's create something amazing together!
   <br><br>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:aliabdiyev000@gmail.com">
     <img src="https://img.shields.io/badge/Send%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail me" />
   </a>
 </p>
