@@ -38,18 +38,6 @@
 
 ---
 
-### 🌟 Featured Projects
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdiev003&repo=YOUR_REPO_NAME_1&theme=algolia&show_owner=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abdiev003&repo=YOUR_REPO_NAME_2&theme=algolia&show_owner=true" />
-  </a>
-</p>
-
----
-
 ### 🛠️ My Tech Stack
 
 <table width="100%">
