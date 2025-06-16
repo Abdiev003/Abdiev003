@@ -54,6 +54,19 @@
   </tr>
   <tr>
     <td align="center">
+      <h4>UI Libraries</h4>
+      <p>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+        <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Chakra UI" />
+        <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+        <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" />
+        <img src="https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+        <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="shadcn/ui" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <h4>Backend</h4>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
