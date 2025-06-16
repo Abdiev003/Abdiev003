@@ -102,6 +102,17 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <h4>State Management</h4>
+      <p>
+       <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
+       <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+       <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+       <img src="https://img.shields.io/badge/React Redux-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Redux" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
