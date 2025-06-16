@@ -54,6 +54,15 @@
   </tr>
   <tr>
     <td align="center">
+      <h4>Mobile</h4>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <h4>UI Libraries</h4>
       <p>
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
