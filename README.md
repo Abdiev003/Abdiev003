@@ -25,7 +25,7 @@
 
 ---
 
-### 🚀 What I Offer
+### What I Offer
 
 * ✅ **Full-Stack Development (MERN):** End-to-end web applications using React, Node.js, Express.js, and MongoDB.
 * ✅ **API Design & Integration:** Robust and secure RESTful & GraphQL APIs.
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <table width="100%">
   <tr>
@@ -117,7 +117,7 @@
 
 ---
 
-### 📊 My Developer DNA
+### My Developer DNA
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdiev003&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Ali's GitHub stats" />
@@ -130,7 +130,7 @@
 
 ---
 
-### 💡 Have a Project in Mind? Let's Build It.
+### Have a Project in Mind? Let's Build It.
 
 <p align="center">
   Feel free to reach out to start a new project, improve an existing one, or just to chat about tech. <br> Let's create something amazing together!
