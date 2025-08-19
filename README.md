@@ -30,6 +30,7 @@
 * ✅ **Full-Stack Development (MERN):** End-to-end web applications using React, Node.js, Express.js, and MongoDB.
 * ✅ **API Design & Integration:** Robust and secure RESTful & GraphQL APIs.
 * ✅ **Frontend Development:** Interactive and responsive user interfaces with modern JavaScript/TypeScript frameworks.
+* ✅ **Backend Development:** Scalable and high-performance solutions with Node.js, NestJS, Django, and Golang.
 * ✅ **Database Architecture:** Custom SQL & NoSQL database solutions tailored to your project's needs.
 * ✅ **Cloud & DevOps:** Application deployment and automation with CI/CD pipelines on AWS/GCP.
 
